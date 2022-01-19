@@ -1,0 +1,10 @@
+- Entendendo o que é lógica (Abstração);
+- O que são algoritmos e pseudocódigos;
+- Fluxograma, Variáveis e Constantes;
+- Tomadas de decisão e expressões;
+- Concatenação;
+- Estruturas de repetição;
+- Linguagens de Programação e o Portugol;
+- Desvios condicionais - comentários no Portugol;
+- Laços de repetição - Portugol;
+- Matrizes e Vetores.
