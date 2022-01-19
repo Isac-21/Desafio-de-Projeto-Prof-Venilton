@@ -1,0 +1,7 @@
+- Navegação via command line interface e instalação do GIT.
+- Navegação básica no terminal e instalação (cd, dir, mkdir, del/rmdir)
+- Instalação do Git
+- Sha1, Objetos, Sistema distribuído e Segurança
+- Chaves SSH e Tokens
+- Git init, Git add, Git commit, Git clone
+- Tracked/Untrancked, Unmodified/Modified & Staged
