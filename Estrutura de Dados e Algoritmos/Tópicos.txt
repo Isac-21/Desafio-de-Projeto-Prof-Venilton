@@ -1,0 +1,9 @@
+- Estrutura de dados;
+- Vetores e Matrizes (ARRAYS);
+- Registros (Formatos especial para armazenar);
+- Listas (Ordem específica);
+- Pilhas (Coleção de elementos);
+- Filas (Conceito de remoção PEPS);
+- Estrutura de dados do tipo árvore;
+- Tabela HASH;
+- Grafos.
